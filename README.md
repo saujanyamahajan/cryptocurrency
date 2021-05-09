@@ -1,1 +1,1 @@
-# crypocurrency
+# cryptocurrency
